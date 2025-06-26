@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Rivindu Ashinsa</h1>
-<h3 align="center">Computer Science Undergraduate | Machine Learning & AI Enthusiast | Data-Driven Problem Solver</h3>
+<h1 align="center">Hi, I'm Rivindu Ashinsa</h1>
+<h3 align="center">Computer Science Undergraduate | Machine Learning and AI Enthusiast | Data-Driven Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -9,60 +9,60 @@
 
 ---
 
-🎓 **Academic Background**  
-Computer Science Undergraduate — University of Westminster  
-Strong foundation in Algorithms, Data Structures, Machine Learning, and Software Engineering
+## Academic Background
+**Computer Science Undergraduate** – University of Westminster  
+Strong foundation in algorithms, data structures, machine learning, and software engineering principles.
 
-💼 **Career Goal**  
-To pursue a challenging role as a **Machine Learning Engineer** or **Data Scientist**, where I can apply analytical skills, statistical techniques, and machine learning to solve real-world problems.
+## Career Objective
+To secure a role as a **Machine Learning Engineer** or **Data Scientist**, contributing to impactful, data-driven solutions that leverage AI to solve real-world problems.
 
 ---
 
-### 🧠 Core Competencies
-- Machine Learning & Deep Learning (TensorFlow, Scikit-learn, PyTorch)
-- Data Analysis & Visualization (Pandas, NumPy, Seaborn, Matplotlib)
+## Core Competencies
+- Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-learn
+- Data Analysis & Visualization: Pandas, NumPy, Seaborn, Matplotlib
 - Natural Language Processing (NLP), Computer Vision, Neural Networks
-- Model Deployment, Evaluation & Optimization
-- Databases: SQL, MongoDB
-- Tools: Docker, Git, LangChain, LangGraph, Kubernetes
+- Model Deployment, Evaluation, and Optimization
+- Databases: MySQL, SQL Server, MongoDB
+- Tools & Platforms: Docker, Git, LangChain, LangGraph, Kubernetes
 
 ---
 
-### 🚀 Projects & Achievements
-- 🧬 **AI-Powered Supply Chain Automation**  
-  Built a multi-agent system using LangGraph to automate supplier sourcing, compliance, and optimization.
-  
-- 🔍 **Spaceship Titanic (Kaggle)**  
-  Achieved 79.4% accuracy — tackled feature engineering, data cleaning, and model evaluation.
+## Projects & Achievements
+- **AI-Powered Supply Chain Automation**  
+  Developed a multi-agent system using LangGraph to automate supplier discovery, compliance monitoring, and optimization.
 
-- 🏥 **AI Health Platform**  
-  Developed predictive services for Heart Disease, Pneumonia, and Diabetes using classification models.
+- **Spaceship Titanic (Kaggle)**  
+  Achieved 79.4% accuracy using feature engineering, preprocessing, and ensemble methods.
 
-- 🧠 **Brain Tumor Detection (Computer Vision)**  
-  Trained CNNs to detect brain tumors using MRI scan images.
+- **AI Health Platform**  
+  Designed predictive services for heart disease, pneumonia, and diabetes using supervised learning.
 
-- 📉 **Loan Approval Prediction & EDA Projects**  
-  Designed end-to-end ML pipelines and performed statistical EDA on real-world datasets.
+- **Brain Tumor Detection**  
+  Built a computer vision model to classify brain MRI images using convolutional neural networks (CNNs).
 
----
-
-### 📜 Certifications & Technical Training
-- **Machine Learning Crash Course** – Google
-- **Intro to Deep Learning, Computer Vision, NLP** – Kaggle
-- **Python for Data Science, Data Analysis** – CognitiveClass.ai, FreeCodeCamp
-- **SQL & Python (Basic)** – HackerRank
-- **AI Fundamentals** – Simplilearn, Microsoft Learn
+- **Loan Approval Prediction & Exploratory Data Analysis**  
+  Delivered end-to-end machine learning pipelines and deep statistical insights from real-world datasets.
 
 ---
 
-### 📫 Contact
+## Certifications & Technical Training
+- Machine Learning Crash Course – Google
+- Intro to Deep Learning, Computer Vision, and NLP – Kaggle
+- Data Analysis with Python – FreeCodeCamp, CognitiveClass.ai (IBM)
+- SQL & Python (Basic) – HackerRank
+- AI Fundamentals – Microsoft Learn, Simplilearn
+
+---
+
+## Contact
 - Email: **ashinsa.rivindu@gmail.com**
 - LinkedIn: [Rivindu Ashinsa](https://linkedin.com/in/rivindu-ashinsa)
 - Kaggle: [RivinduAshinsa](https://kaggle.com/rivinduashinsa)
 
 ---
 
-### 💻 Tech Stack
+## Tech Stack
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
