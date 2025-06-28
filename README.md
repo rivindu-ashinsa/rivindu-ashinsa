@@ -47,3 +47,5 @@ Azure, Firebase, Streamlit, Render, Hugging Face
 
 ## 💡 Let's Build Together  
 I’m always open to collaborations in the fields of AI, machine learning, and data science. If you’re working on something innovative — let’s connect and build something impactful.
+
+#rivindu #ashinsa
