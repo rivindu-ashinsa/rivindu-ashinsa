@@ -32,6 +32,16 @@ Azure, Firebase, Streamlit, Render, Hugging Face
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rivindu-ashinsa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rivindu-ashinsa&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivindu-ashinsa&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 🏅 Certifications
 
 - 📌 Google ML Crash Course
