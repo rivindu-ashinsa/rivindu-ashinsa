@@ -153,25 +153,20 @@ Computer Science undergraduate integrating theoretical knowledge with practical 
 
 ## 💡 Research Interests
 
-```python
-research_interests = {
-    "primary": [
-        "Healthcare & Biomedical AI",
-        "Agentic AI & Multi-Agent Systems",
-        "Predictive Modeling for Patient Monitoring"
-    ],
-    "methodologies": [
-        "Time-Series Analysis & Anomaly Detection",
-        "Explainable AI & Model Interpretability",
-        "Edge AI & Efficient Model Design"
-    ],
-    "emerging": [
-        "Large Language Models in Healthcare",
-        "Autonomous AI Agents",
-        "Federated Learning for Medical Data"
-    ]
-}
-```
+### Primary Focus
+- 🏥 Healthcare & Biomedical AI
+- 🤖 Agentic AI & Multi-Agent Systems
+- 📈 Predictive Modeling for Patient Monitoring
+
+### Methodologies
+- 📊 Time-Series Analysis & Anomaly Detection
+- 🔍 Explainable AI & Model Interpretability
+- ⚡ Edge AI & Efficient Model Design
+
+### Emerging Areas
+- 🧠 Large Language Models in Healthcare
+- 🚀 Autonomous AI Agents
+- 🔐 Federated Learning for Medical Data
 
 ---
 
