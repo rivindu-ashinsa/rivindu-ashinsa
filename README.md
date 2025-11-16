@@ -180,7 +180,7 @@ I'm actively seeking opportunities in:
 - 👨‍🏫 **Mentorship** — Guiding aspiring ML engineers and researchers
 
 **Get in Touch:**
-- 📧 Email: [Your professional email]
+- 📧 Email: ashinsa.rivindu@gmail.com
 - 💼 LinkedIn: [rivindu-ashinsa](https://www.linkedin.com/in/rivindu-ashinsa/)
 - 📸 Instagram: [@__rvndq__](https://www.instagram.com/__rvndq__)
 
