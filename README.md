@@ -9,7 +9,8 @@
 ### AI Research & Development Engineer | Machine Learning | Healthcare Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivindu-ashinsa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__rvndq__)
+[![Portfolio](https://img.shields.io)](https://rivindu-ashinsa.github.io)
+
 
 </div>
 
