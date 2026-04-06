@@ -1,23 +1,23 @@
 <!--
   SEO META TAGS — Indexed by search engines crawling GitHub profiles
   Name: Rivindu Ashinsa
-  Keywords: Rivindu Ashinsa, AI Engineer, Machine Learning, Healthcare AI, CognivusLabs, Sri Lanka
-  Description: Rivindu Ashinsa is an AI Research & Development Engineer specializing in biomedical machine learning, ECG analysis, and agentic AI systems.
+  Keywords: Rivindu Ashinsa, AI Engineer, Machine Learning, Healthcare AI, Data Science, CognivusLabs, Sri Lanka
+  Description: Rivindu Ashinsa is an AI Research & Development Engineer specializing in biomedical machine learning, predictive modeling, and agentic AI systems.
   Author: Rivindu Ashinsa
   Canonical: https://github.com/rivindu-ashinsa
-  og:title: Rivindu Ashinsa — AI R&D Engineer
-  og:description: Rivindu Ashinsa builds production-grade AI systems for healthcare — from ECG abnormality detection to SpO₂ prediction and agentic frameworks.
+  og:title: Rivindu Ashinsa — AI R&D Engineer & Data Scientist
+  og:description: Rivindu Ashinsa builds production-grade AI systems for healthcare — from ECG abnormality detection to real-world predictive models and agentic frameworks.
   og:url: https://github.com/rivindu-ashinsa
   twitter:card: summary
   twitter:title: Rivindu Ashinsa
-  twitter:description: AI R&D Engineer | Machine Learning | Biomedical AI | CognivusLabs
+  twitter:description: AI R&D Engineer | Data Science | Predictive Modeling | Biomedical AI | CognivusLabs
 -->
 
 <div align="center">
 
 <h1>Rivindu Ashinsa</h1>
 
-<p><strong>AI Research & Development Engineer &nbsp;·&nbsp; Biomedical ML &nbsp;·&nbsp; Agentic AI</strong></p>
+<p><strong>AI Research & Development Engineer &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Biomedical ML &nbsp;·&nbsp; Agentic AI</strong></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rivindu%20Ashinsa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivindu-ashinsa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rivindu--ashinsa.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rivindu-ashinsa.github.io)
@@ -39,7 +39,7 @@ rivindu_ashinsa = {
     "role"      : "AI Research & Development Engineer",
     "company"   : "CognivusLabs",
     "location"  : "Sri Lanka 🇱🇰",
-    "domains"   : ["Biomedical ML", "Agentic AI", "Time-Series Analysis"],
+    "domains"   : ["Biomedical ML", "Data Science", "Agentic AI", "Predictive Modeling"],
     "building"  : "AI that bridges research and real-world healthcare impact",
     "philosophy": "Data is the new medicine; AI is the new lab."
 }
@@ -49,6 +49,7 @@ I build **production-grade ML systems** for real-time biomedical applications �
 
 **What drives me:**
 - 🏥 Applying AI to healthcare through predictive modeling and signal processing
+- 📊 Solving real-world data science problems — not just academic benchmarks, but models that actually work in production
 - 🧩 Designing interpretable, production-aware systems from research prototypes
 - 🤖 Architecting agentic AI frameworks capable of reasoning and autonomous execution
 - ⚡ Pushing efficient AI to edge devices for real-time health monitoring
@@ -189,29 +190,36 @@ Lightweight vital-sign AI for edge hardware.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivindu-ashinsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7C3AED&text_color=c9d1d9&count_private=true" alt="Rivindu Ashinsa GitHub Stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivindu-ashinsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" alt="Rivindu Ashinsa Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivindu-ashinsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7C3AED&text_color=c9d1d9&count_private=true&rank_icon=github" alt="Rivindu Ashinsa GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivindu-ashinsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Rivindu Ashinsa Top Languages"/>
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=rivindu-ashinsa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa" alt="Rivindu Ashinsa GitHub Streak"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rivindu-ashinsa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7C3AED&point=a78bfa" alt="Rivindu Ashinsa Contribution Graph"/>
 
 </div>
 
 ---
 
-## 💡 Research Interests
+## 💡 Research & Problem-Solving Interests
 
-| Area | Focus |
+I'm drawn to problems where **data science delivers tangible, real-world impact** — not just models that perform on paper, but systems that hold up in production.
+
+| Area | What I'm Working On |
 |------|-------|
-| 🏥 **Healthcare & Biomedical AI** | ECG, SpO₂, predictive patient monitoring |
-| 🤖 **Agentic AI & Multi-Agent Systems** | Autonomous reasoning, planning, tool use |
-| 📊 **Time-Series & Anomaly Detection** | Biomedical signal processing, forecasting |
-| 🔍 **Explainable AI** | Interpretability for clinical systems |
-| ⚡ **Edge AI** | Efficient inference on resource-constrained devices |
+| 📊 **Real-World Predictive Modeling** | End-to-end pipelines that work outside the notebook — robust preprocessing, feature engineering, and deployment-ready outputs |
+| 🏥 **Healthcare & Biomedical AI** | ECG, SpO₂, patient monitoring — where model reliability is non-negotiable |
+| 🤖 **Agentic AI & Multi-Agent Systems** | Autonomous reasoning, planning, and tool use at scale |
+| 🔍 **Explainable AI** | Interpretability for clinical and high-stakes systems |
+| 📈 **Time-Series & Anomaly Detection** | Biomedical signal processing and forecasting under real constraints |
+| ⚡ **Edge AI** | Efficient inference on resource-constrained hardware |
 | 🧠 **LLMs in Healthcare** | Clinical NLP, decision support, RAG pipelines |
-| 🔐 **Federated Learning** | Privacy-preserving ML for medical data |
+| 🔐 **Federated Learning** | Privacy-preserving ML for sensitive medical data |
+
+> I enjoy **data science competitions and problem sets** that challenge feature engineering, model generalization, and handling messy real-world data. If you have an interesting dataset or a hard prediction problem — let's talk.
 
 ---
 
@@ -238,6 +246,7 @@ Computer Science undergraduate — integrating theoretical ML foundations with a
 I'm open to:
 
 - 🔬 **Research Collaborations** — ML in healthcare and biomedical domains
+- 🧩 **Data Science Problems** — predictive modeling challenges, messy datasets, real-world ML
 - 🌟 **Open-Source Projects** — AI/ML tools, health-tech, agentic frameworks
 - 🎤 **Speaking / Workshops** — AI/data science events and tech meetups
 - 👨‍🏫 **Mentorship** — Guiding early-stage ML engineers and researchers
@@ -256,6 +265,6 @@ I'm open to:
 
 **Rivindu Ashinsa** · AI R&D Engineer · Building intelligent systems that save lives, one algorithm at a time.
 
-<sub>rivindu ashinsa · rivindu-ashinsa · ashinsa rivindu · AI Engineer · CognivusLabs · Sri Lanka</sub>
+<sub>rivindu ashinsa · rivindu-ashinsa · ashinsa rivindu · AI Engineer · Data Scientist · CognivusLabs · Sri Lanka</sub>
 
 </div>
