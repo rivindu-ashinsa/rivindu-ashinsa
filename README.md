@@ -15,12 +15,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Rivindu%20Ashinsa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20R%26D%20Engineer%20%7C%20Biomedical%20ML%20%7C%20Agentic%20AI&descSize=16&descAlignY=58&descColor=a78bfa" alt="Rivindu Ashinsa — AI R&D Engineer" />
+<h1>Rivindu Ashinsa</h1>
 
-<br/>
+<p><strong>AI Research & Development Engineer &nbsp;·&nbsp; Biomedical ML &nbsp;·&nbsp; Agentic AI</strong></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rivindu%20Ashinsa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivindu-ashinsa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rivindu--ashinsa.github.io-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rivindu-ashinsa.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rivindu--ashinsa.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rivindu-ashinsa.github.io)
 [![Email](https://img.shields.io/badge/Email-ashinsa.rivindu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashinsa.rivindu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@__rvndq__-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__rvndq__)
 
@@ -48,7 +48,6 @@ rivindu_ashinsa = {
 I build **production-grade ML systems** for real-time biomedical applications — from ECG arrhythmia detection to SpO₂ forecasting. My work sits at the intersection of rigorous research and engineering reliability.
 
 **What drives me:**
-
 - 🏥 Applying AI to healthcare through predictive modeling and signal processing
 - 🧩 Designing interpretable, production-aware systems from research prototypes
 - 🤖 Architecting agentic AI frameworks capable of reasoning and autonomous execution
@@ -190,11 +189,13 @@ Lightweight vital-sign AI for edge hardware.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivindu-ashinsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7C3AED&text_color=c9d1d9" alt="Rivindu Ashinsa GitHub Stats"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivindu-ashinsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7C3AED&text_color=c9d1d9&count_private=true" alt="Rivindu Ashinsa GitHub Stats"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivindu-ashinsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" alt="Rivindu Ashinsa Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rivindu-ashinsa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa" alt="Rivindu Ashinsa GitHub Streak"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rivindu-ashinsa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=a78bfa&currStreakLabel=a78bfa" alt="Rivindu Ashinsa GitHub Streak"/>
 
 </div>
 
@@ -247,18 +248,14 @@ I'm open to:
 |---|---|---|
 | [ashinsa.rivindu@gmail.com](mailto:ashinsa.rivindu@gmail.com) | [rivindu-ashinsa](https://www.linkedin.com/in/rivindu-ashinsa/) | [@__rvndq__](https://www.instagram.com/__rvndq__) |
 
-</div>
+<br/>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer"/>
 
 *"Data is the new medicine; AI is the new lab."*
 
 **Rivindu Ashinsa** · AI R&D Engineer · Building intelligent systems that save lives, one algorithm at a time.
 
-`rivindu ashinsa` · `rivindu-ashinsa` · `ashinsa rivindu` · AI Engineer · CognivusLabs · Sri Lanka
+<sub>rivindu ashinsa · rivindu-ashinsa · ashinsa rivindu · AI Engineer · CognivusLabs · Sri Lanka</sub>
 
 </div>
